@@ -1,1 +1,0 @@
-{"action_name":"get_chest_info","module_name":"draw","protocol":[{"name":"free_coin_num","type":"int32"},{"name":"next_free_coin_left","type":"int64"},{"name":"next_free_ingot_left","type":"int64"}]}

@@ -1,1 +1,0 @@
-{"action_name":"draw_chest","module_name":"draw","protocol":[{"name":"chest_type","type":"enum8"}]}

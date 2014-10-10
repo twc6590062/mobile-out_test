@@ -1,1 +1,0 @@
-{"action_name":"draw","module_name":"ghost","protocol":[{"name":"result","type":"list8","fields":[{"name":"result_type","type":"enum8"},{"name":"item_id","type":"int16"},{"name":"item_num","type":"int16"}]}]}

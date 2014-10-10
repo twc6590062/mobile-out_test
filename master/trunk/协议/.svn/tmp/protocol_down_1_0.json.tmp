@@ -1,1 +1,0 @@
-{"action_name":"enter","module_name":"town","protocol":[{"name":"player","type":"struct","fields":[{"name":"player_id","type":"int64"},{"name":"nickname","type":"text16"},{"name":"role_id","type":"int8"},{"name":"at_x","type":"int16"},{"name":"at_y","type":"int16"},{"name":"fashion_id","type":"int16"}]}]}

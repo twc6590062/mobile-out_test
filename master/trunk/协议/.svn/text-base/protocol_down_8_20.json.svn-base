@@ -1,1 +1,0 @@
-{"action_name":"send_chest_draw_ready","module_name":"notify","protocol":[{"name":"chest_type","type":"enum8"}]}
