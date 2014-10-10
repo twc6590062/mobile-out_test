@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/win/left_top.png
+[filename]
+left_top.png
+[width]
+2002
+[height]
+185
+[frames]
+13
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+140
+[name_point]
+53,27
+[name_hidden]
+0
+[reg_point]
+56,147
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/win/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 燕无名/squat/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+715
+[height]
+92
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+86,-2
+[name_hidden]
+0
+[reg_point]
+83,61
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 燕无名/squat/

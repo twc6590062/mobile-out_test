@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/X - 昕苒/grovel/top.png
+[filename]
+top.png
+[width]
+108
+[height]
+89
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+65,-5
+[name_hidden]
+0
+[reg_point]
+50,41
+[face]
+top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/X - 昕苒/grovel/

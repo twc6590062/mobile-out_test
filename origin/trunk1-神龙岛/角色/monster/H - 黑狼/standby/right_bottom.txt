@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk/角色/monster/H - 黑狼/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+635
+[height]
+89
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+100
+[name_point]
+99,9
+[name_hidden]
+0
+[reg_point]
+82,71
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk/角色/monster/H - 黑狼/standby/

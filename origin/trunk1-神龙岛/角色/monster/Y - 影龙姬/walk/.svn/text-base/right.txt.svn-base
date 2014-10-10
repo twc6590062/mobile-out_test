@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/Y - 影龙姬/walk/right.png
+[filename]
+right.png
+[width]
+1230
+[height]
+160
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+71,1
+[name_hidden]
+0
+[reg_point]
+65,131
+[face]
+right
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/monster/Y - 影龙姬/walk/

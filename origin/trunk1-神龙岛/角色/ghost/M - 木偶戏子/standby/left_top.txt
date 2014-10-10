@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 木偶戏子/standby/left_top.png
+[filename]
+left_top.png
+[width]
+816
+[height]
+143
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+52,-10
+[name_hidden]
+0
+[reg_point]
+58,117
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 木偶戏子/standby/

@@ -1,0 +1,1 @@
+{"action_name":"info","module_name":"trader","protocol":[{"name":"during","type":"list8","fields":[{"name":"expire","type":"int64"},{"name":"showup","type":"int64"},{"name":"disappear","type":"int64"}]}]}

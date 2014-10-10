@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/K - 骷髅将军/beaten/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+326
+[height]
+235
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+141,-7
+[name_hidden]
+0
+[reg_point]
+139,154
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/美术成品/角色/monster_war/K - 骷髅将军/beaten/

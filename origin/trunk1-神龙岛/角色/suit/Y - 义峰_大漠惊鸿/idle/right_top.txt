@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/idle/right_top.png
+[filename]
+right_top.png
+[width]
+609
+[height]
+133
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+210
+[name_point]
+37,-7
+[name_hidden]
+0
+[reg_point]
+43,107
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/idle/

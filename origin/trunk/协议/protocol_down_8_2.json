@@ -1,0 +1,1 @@
+{"action_name":"role_exp_change","module_name":"notify","protocol":[{"name":"role_id","type":"int8"},{"name":"add_exp","type":"int64"},{"name":"exp","type":"int64"},{"name":"level","type":"int16"}]}

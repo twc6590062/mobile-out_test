@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/H - 火麒麟/beaten/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+261
+[height]
+253
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+159,92
+[name_hidden]
+0
+[reg_point]
+124,185
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/美术成品/角色/monster_war/H - 火麒麟/beaten/

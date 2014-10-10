@@ -1,0 +1,1 @@
+{"action_name":"fashion_info","module_name":"fashion","protocol":[{"name":"dress_cd_time","type":"int64"},{"name":"dressed_fashion_id","type":"int16"},{"name":"fashions","type":"list8","fields":[{"name":"fashion_id","type":"int16"},{"name":"expire_time","type":"int64"}]}]}

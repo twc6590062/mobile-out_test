@@ -1,0 +1,1 @@
+{"action_name":"get_fight_num","module_name":"role","protocol":[{"name":"fight_nums","type":"list8","fields":[{"name":"fight_type","type":"int16"},{"name":"fight_num","type":"int32"}]}]}

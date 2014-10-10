@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/standby2/right_top.png
+[filename]
+right_top.png
+[width]
+124
+[height]
+130
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+88,-5
+[name_hidden]
+0
+[reg_point]
+73,100
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/standby2/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/J - 经验怪/standby/left_top.png
+[filename]
+left_top.png
+[width]
+1190
+[height]
+135
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+58,-2
+[name_hidden]
+0
+[reg_point]
+59,100
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/monster/J - 经验怪/standby/

@@ -1,0 +1,1 @@
+{"action_name":"store_state","module_name":"trader","protocol":[{"name":"trader_id","type":"int16"}]}

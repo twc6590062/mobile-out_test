@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk/角色/monster/R - 燃魁/beaten/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+203
+[height]
+196
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+80,13
+[name_hidden]
+0
+[reg_point]
+114,171
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk/角色/monster/R - 燃魁/beaten/

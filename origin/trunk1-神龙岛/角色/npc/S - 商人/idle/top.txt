@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 商人/idle/top.png
+[filename]
+top.png
+[width]
+636
+[height]
+147
+[frames]
+6
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+56,-9
+[name_hidden]
+0
+[reg_point]
+52,115
+[face]
+top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/npc/S - 商人/idle/

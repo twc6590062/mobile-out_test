@@ -1,0 +1,1 @@
+{"action_name":"global_login","module_name":"player","protocol":[{"name":"paytoken","type":"bool"},{"name":"result","type":"bool"}]}

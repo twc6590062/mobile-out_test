@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/B - 毕林/run/left_bottom.png
+[filename]
+left_bottom.png
+[width]
+1386
+[height]
+140
+[frames]
+11
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+29,0
+[name_hidden]
+0
+[reg_point]
+58,107
+[face]
+left_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/B - 毕林/run/

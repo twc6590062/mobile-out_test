@@ -1,0 +1,36 @@
+﻿[src]
+file:///D:/work/lms/out/角色/ghost_shield/A - 阿修罗/right_bottom.png.png
+[filename]
+right_bottom.png.png
+[width]
+315
+[height]
+370
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+0,0
+[name_hidden]
+1
+[reg_point]
+158,277
+[face]
+
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+D:/work/lms/out/角色/ghost_shield/A - 阿修罗/

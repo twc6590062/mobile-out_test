@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（女）/walk/bottom.png
+[filename]
+bottom.png
+[width]
+1664
+[height]
+148
+[frames]
+16
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+54,-7
+[name_hidden]
+0
+[reg_point]
+51,117
+[face]
+bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（女）/walk/

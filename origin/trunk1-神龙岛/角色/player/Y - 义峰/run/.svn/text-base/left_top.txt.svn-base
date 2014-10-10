@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 义峰/run/left_top.png
+[filename]
+left_top.png
+[width]
+828
+[height]
+157
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+32,2
+[name_hidden]
+0
+[reg_point]
+44,119
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 义峰/run/

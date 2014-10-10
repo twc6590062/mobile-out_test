@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/H - 黑翼巨蝠/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1584
+[height]
+256
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+97,97
+[name_hidden]
+0
+[reg_point]
+87,195
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/H - 黑翼巨蝠/standby/

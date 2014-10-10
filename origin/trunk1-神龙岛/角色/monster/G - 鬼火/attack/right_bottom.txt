@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/G - 鬼火/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3744
+[height]
+213
+[frames]
+16
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+109,2
+[name_hidden]
+0
+[reg_point]
+113,148
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/G - 鬼火/attack/

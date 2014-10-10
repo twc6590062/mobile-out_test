@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/N - 纳垢/idle/right.png
+[filename]
+right.png
+[width]
+728
+[height]
+141
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+160
+[name_point]
+60,17
+[name_hidden]
+0
+[reg_point]
+52,109
+[face]
+right
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/npc/N - 纳垢/idle/

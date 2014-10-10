@@ -1,0 +1,1 @@
+{"action_name":"equip","module_name":"sword_soul","protocol":[{"name":"from_id","type":"int64"},{"name":"role_id","type":"int8"},{"name":"equip_pos","type":"enum8"}]}

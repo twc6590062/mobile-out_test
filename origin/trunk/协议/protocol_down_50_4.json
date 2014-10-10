@@ -1,0 +1,1 @@
+{"action_name":"draw_chest","module_name":"draw","protocol":[{"name":"items","type":"list8","fields":[{"name":"item_type","type":"enum8"},{"name":"item_id","type":"int16"},{"name":"num","type":"int32"}]}]}

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/L - 龙姬/idle/bottom.png
+[filename]
+bottom.png
+[width]
+679
+[height]
+154
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+200
+[name_point]
+50,-5
+[name_hidden]
+0
+[reg_point]
+47,124
+[face]
+bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/npc/L - 龙姬/idle/

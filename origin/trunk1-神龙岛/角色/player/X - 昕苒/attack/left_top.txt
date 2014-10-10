@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/X - 昕苒/attack/left_top.png
+[filename]
+left_top.png
+[width]
+1520
+[height]
+201
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+100
+[name_point]
+96,27
+[name_hidden]
+0
+[reg_point]
+95,149
+[face]
+left_top
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/X - 昕苒/attack/

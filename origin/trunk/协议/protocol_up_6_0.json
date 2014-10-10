@@ -1,0 +1,1 @@
+{"action_name":"start_battle","module_name":"battle","protocol":[{"name":"battle_type","type":"enum8"},{"name":"battle_id","type":"int64"}]}

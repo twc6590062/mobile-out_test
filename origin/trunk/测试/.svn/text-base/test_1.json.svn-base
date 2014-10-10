@@ -1,0 +1,52 @@
+{
+  "status": 0,
+  "now_round": 0,
+  "all_attackers": [
+    {
+      "player_id": 47244640297
+    },
+    {
+      "player_id": 47244640327
+    }
+  ],
+  "all_defenders": [],
+  "results": [
+    {
+      "ftype": 0,
+      "event": 0,
+      "position": 4,
+      "power": 2,
+      "health": 11320,
+      "sunder_value": 400,
+      "use_ghost_skill": false,
+      "ghost_shield_on": false,
+      "shield_ghost_id": 0,
+      "ghost_power": 20,
+      "attacks": [
+        {
+          "skill_id": 1,
+          "rest_release_num": -1,
+          "targets": [
+            {
+              "ftype": 1,
+              "hurt": 2104,
+              "event": 0,
+              "position": 8,
+              "take_sunder": 5,
+              "take_ghost_shield": 0,
+              "direct_reduct_hurt": 0,
+              "ghost_shield_on": false,
+              "shield_ghost_id": 0,
+              "ghost_power": 0,
+              "buffs": []
+            }
+          ],
+          "self_buffs": [],
+          "buddy_buffs": []
+        }
+      ],
+      "item": []
+    }
+  ],
+  "autos": []
+}

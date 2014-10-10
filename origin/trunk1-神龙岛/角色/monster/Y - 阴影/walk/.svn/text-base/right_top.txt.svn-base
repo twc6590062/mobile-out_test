@@ -1,0 +1,34 @@
+[src]
+file:///E:/LMS美术成品/角色/monster/H - 魂侍初级/walk/right_top.png
+[filename]
+right_top.png
+[width]
+12550
+[height]
+241
+[frames]
+5
+[frames_repeat]
+0
+[frames_copy]
+NaN
+[interval]
+142
+[name_point]
+139,11
+[name_hidden]
+0
+[reg_point]
+126,168
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[config_path]
+E:/LMS美术成品/角色/monster/H - 魂侍初级/walk/

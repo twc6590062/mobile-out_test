@@ -1,0 +1,1 @@
+{"action_name":"get_online_friend","module_name":"multi_level","protocol":[{"name":"friends","type":"list8","fields":[{"name":"pid","type":"int64"},{"name":"role_id","type":"int8"},{"name":"nickname","type":"text16"},{"name":"level","type":"int16"},{"name":"fight_num","type":"int32"},{"name":"daily_num","type":"int8"},{"name":"lock","type":"int32"}]}]}

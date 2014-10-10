@@ -1,0 +1,1 @@
+{"action_name":"clear_trader_schedule","module_name":"debug","protocol":[{"name":"trader_id","type":"int16"}]}

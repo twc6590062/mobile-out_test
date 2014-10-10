@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/J - 金蟾王/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1015
+[height]
+154
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+95,-14
+[name_hidden]
+0
+[reg_point]
+97,97
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/J - 金蟾王/standby/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 木偶戏子/attack/left_top.png
+[filename]
+left_top.png
+[width]
+1920
+[height]
+168
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+141,15
+[name_hidden]
+0
+[reg_point]
+147,142
+[face]
+left_top
+[actions]
+5,8,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 木偶戏子/attack/

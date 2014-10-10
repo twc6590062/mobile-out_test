@@ -1,0 +1,1 @@
+{"action_name":"take_award","module_name":"rainbow","protocol":[{"name":"pos1","type":"int8"},{"name":"pos2","type":"int8"}]}

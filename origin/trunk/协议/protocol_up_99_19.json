@@ -1,0 +1,1 @@
+{"action_name":"start_battle","module_name":"debug","protocol":[{"name":"battle_type","type":"int8"},{"name":"enemy_id","type":"int32"}]}

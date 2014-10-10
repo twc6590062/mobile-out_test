@@ -1,0 +1,384 @@
+
+skeleton_ZhuYuanYuan.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_skirt
+  rotate: false
+  xy: 218, 367
+  size: 41, 49
+  orig: 42, 49
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 207, 443
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 40, 111
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 93, 247
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 268, 447
+  size: 14, 68
+  orig: 15, 68
+  offset: 1, 0
+  index: -1
+hair_mid
+  rotate: false
+  xy: 144, 215
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 64, 429
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+left_hair1
+  rotate: false
+  xy: 127, 196
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+left_hair_rope1
+  rotate: false
+  xy: 407, 455
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+left_hair_rope2
+  rotate: false
+  xy: 194, 260
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+left_hair_rope3
+  rotate: true
+  xy: 218, 354
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+left_hair_rope4
+  rotate: false
+  xy: 111, 46
+  size: 6, 32
+  orig: 6, 33
+  offset: 0, 1
+  index: -1
+left_hand
+  rotate: true
+  xy: 87, 80
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+left_lower_arm
+  rotate: false
+  xy: 40, 200
+  size: 43, 66
+  orig: 44, 66
+  offset: 1, 0
+  index: -1
+left_lower_arm_skirt
+  rotate: false
+  xy: 91, 110
+  size: 30, 45
+  orig: 30, 46
+  offset: 0, 1
+  index: -1
+left_lower_leg
+  rotate: false
+  xy: 0, 271
+  size: 40, 121
+  orig: 40, 121
+  offset: 0, 0
+  index: -1
+left_lower_skirt1
+  rotate: false
+  xy: 183, 291
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+left_lower_skirt2
+  rotate: false
+  xy: 84, 38
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+left_skirt_rope1
+  rotate: false
+  xy: 93, 282
+  size: 49, 48
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+left_skirt_rope2
+  rotate: true
+  xy: 64, 391
+  size: 36, 69
+  orig: 37, 69
+  offset: 1, 0
+  index: -1
+left_sp_rope
+  rotate: true
+  xy: 144, 195
+  size: 18, 33
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+left_up_arm
+  rotate: true
+  xy: 207, 418
+  size: 23, 58
+  orig: 24, 59
+  offset: 0, 1
+  index: -1
+left_up_arm_skirt
+  rotate: true
+  xy: 84, 24
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+left_up_leg
+  rotate: false
+  xy: 0, 182
+  size: 38, 87
+  orig: 38, 87
+  offset: 0, 0
+  index: -1
+left_up_skirt
+  rotate: false
+  xy: 189, 355
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+left_weapon
+  rotate: false
+  xy: 104, 332
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+left_weapon_rope1_lower
+  rotate: false
+  xy: 27, 121
+  size: 11, 59
+  orig: 11, 59
+  offset: 0, 0
+  index: -1
+left_weapon_rope1_up
+  rotate: false
+  xy: 65, 26
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+left_weapon_rope2
+  rotate: true
+  xy: 347, 459
+  size: 11, 58
+  orig: 11, 59
+  offset: 0, 0
+  index: -1
+mid_lower_skirt
+  rotate: false
+  xy: 144, 285
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+mid_sp
+  rotate: false
+  xy: 135, 395
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+mid_up_skirt
+  rotate: false
+  xy: 42, 268
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 0
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+red_skirt
+  rotate: false
+  xy: 143, 431
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+right_hair1_lower
+  rotate: false
+  xy: 40, 146
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+right_hair1_up
+  rotate: true
+  xy: 148, 329
+  size: 25, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+right_hair2_lower1
+  rotate: false
+  xy: 0, 24
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+right_hair2_lower2
+  rotate: true
+  xy: 268, 463
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+right_hair2_up
+  rotate: false
+  xy: 85, 204
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+right_hair3
+  rotate: false
+  xy: 176, 216
+  size: 15, 35
+  orig: 15, 37
+  offset: 0, 2
+  index: -1
+right_hand
+  rotate: true
+  xy: 188, 328
+  size: 25, 28
+  orig: 26, 29
+  offset: 1, 0
+  index: -1
+right_lower_arm
+  rotate: true
+  xy: 428, 468
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+right_lower_leg
+  rotate: false
+  xy: 0, 394
+  size: 62, 114
+  orig: 62, 114
+  offset: 0, 0
+  index: -1
+right_lower_skirt1
+  rotate: true
+  xy: 218, 331
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+right_lower_skirt2
+  rotate: true
+  xy: 144, 253
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+right_sp_rope
+  rotate: true
+  xy: 183, 285
+  size: 4, 33
+  orig: 4, 33
+  offset: 0, 0
+  index: -1
+right_up_arm
+  rotate: false
+  xy: 33, 28
+  size: 30, 56
+  orig: 30, 57
+  offset: 0, 1
+  index: -1
+right_up_leg
+  rotate: true
+  xy: 347, 472
+  size: 36, 79
+  orig: 37, 79
+  offset: 1, 0
+  index: -1
+right_up_skirt
+  rotate: false
+  xy: 148, 356
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+right_weapon
+  rotate: false
+  xy: 42, 333
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+right_weapon_rope1
+  rotate: false
+  xy: 0, 85
+  size: 25, 95
+  orig: 26, 95
+  offset: 1, 0
+  index: -1
+right_weapon_rope1_up
+  rotate: true
+  xy: 148, 411
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+right_weapon_rope2_lower
+  rotate: true
+  xy: 27, 86
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+sp
+  rotate: false
+  xy: 85, 157
+  size: 35, 45
+  orig: 36, 46
+  offset: 1, 1
+  index: -1

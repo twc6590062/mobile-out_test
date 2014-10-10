@@ -1,0 +1,1 @@
+{"action_name":"get_info","module_name":"tower","protocol":[{"name":"floor_num","type":"int16"},{"name":"friends","type":"list8","fields":[{"name":"role_id","type":"int8"},{"name":"nickname","type":"text16"},{"name":"level","type":"int16"},{"name":"floor","type":"int16"}]}]}

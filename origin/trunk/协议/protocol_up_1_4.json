@@ -1,0 +1,1 @@
+{"action_name":"npc_talk","module_name":"town","protocol":[{"name":"npc_id","type":"int32"}]}

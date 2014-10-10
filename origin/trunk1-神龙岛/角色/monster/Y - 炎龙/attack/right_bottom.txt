@@ -1,0 +1,36 @@
+﻿[src]
+file:///E:/美术成品/角色/monster_war/Y - 炎龙/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3800
+[height]
+475
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+160
+[name_point]
+165,74
+[name_hidden]
+0
+[reg_point]
+143,245
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/Y - 炎龙/attack/

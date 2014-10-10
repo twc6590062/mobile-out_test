@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/J - 极寒冰巫/beaten/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+123
+[height]
+192
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+58,5
+[name_hidden]
+0
+[reg_point]
+46,139
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/美术成品/角色/monster_war/J - 极寒冰巫/beaten/

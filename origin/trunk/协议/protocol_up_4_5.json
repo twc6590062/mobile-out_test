@@ -1,0 +1,1 @@
+{"action_name":"use_item","module_name":"mission","protocol":[{"name":"role_id","type":"int8"},{"name":"item_id","type":"int16"}]}

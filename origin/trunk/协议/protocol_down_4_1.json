@@ -1,0 +1,1 @@
+{"action_name":"get_mission_level","module_name":"mission","protocol":[{"name":"result","type":"enum8"},{"name":"levels","type":"list8","fields":[{"name":"level_id","type":"int32"},{"name":"score","type":"int32"},{"name":"daily_num","type":"int8"}]}]}

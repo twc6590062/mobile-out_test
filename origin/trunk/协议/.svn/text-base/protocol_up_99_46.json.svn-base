@@ -1,0 +1,1 @@
+{"action_name":"add_global_mail","module_name":"debug","protocol":[{"name":"send_delay","type":"int64"},{"name":"expire_delay","type":"int64"}]}

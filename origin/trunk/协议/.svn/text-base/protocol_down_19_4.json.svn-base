@@ -1,0 +1,1 @@
+{"action_name":"notify_failed_cd_time","module_name":"arena","protocol":[{"name":"cd_time","type":"int64"}]}

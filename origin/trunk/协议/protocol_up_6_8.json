@@ -1,0 +1,1 @@
+{"action_name":"call_battle_pet","module_name":"battle","protocol":[{"name":"grid_num","type":"int8"}]}

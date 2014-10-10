@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Z - 朱媛媛/skill/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1386
+[height]
+188
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+57,5
+[name_hidden]
+0
+[reg_point]
+56,121
+[face]
+right_bottom
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Z - 朱媛媛/skill/

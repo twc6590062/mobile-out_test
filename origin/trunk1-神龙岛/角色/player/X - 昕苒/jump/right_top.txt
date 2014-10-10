@@ -1,0 +1,36 @@
+[src]
+file:///Users/yuanmingzhi/Documents/手机版美术成品/trunk/角色/player/X - 昕苒/jump/right_top.png
+[filename]
+right_top.png
+[width]
+2106
+[height]
+193
+[frames]
+18
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+62
+[name_point]
+67,46
+[name_hidden]
+0
+[reg_point]
+71,166
+[face]
+right_top
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/yuanmingzhi/Documents/手机版美术成品/trunk/角色/player/X - 昕苒/jump/

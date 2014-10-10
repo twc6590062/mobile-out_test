@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/S - 水鬼/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+618
+[height]
+149
+[frames]
+6
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+140
+[name_point]
+68,3
+[name_hidden]
+0
+[reg_point]
+55,101
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/美术成品/角色/monster_war/S - 水鬼/attack/

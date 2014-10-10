@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk/角色/monster/G - 鬼火/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2250
+[height]
+187
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+111,33
+[name_hidden]
+0
+[reg_point]
+113,122
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk/角色/monster/G - 鬼火/standby/

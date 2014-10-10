@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/S - 水妖/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2067
+[height]
+187
+[frames]
+13
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+78,-12
+[name_hidden]
+0
+[reg_point]
+78,155
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+file:///E:/美术成品/角色/monster_war/S - 水妖/attack/E:/Work/猎命师/猎命师渲染完成/怪物/水妖/普通攻击（改）/阴影/2/裁切后/0000.png
+[shadow_filename]
+right_bottom
+[shadow_position]
+10,126
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/S - 水妖/attack/

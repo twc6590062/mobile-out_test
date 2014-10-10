@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/X - 血髅/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2710
+[height]
+252
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+141,50
+[name_hidden]
+0
+[reg_point]
+142,181
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/X - 血髅/attack/

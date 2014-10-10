@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 神秘蒙面人/idle/left_top.png
+[filename]
+left_top.png
+[width]
+774
+[height]
+171
+[frames]
+6
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+66,-4
+[name_hidden]
+0
+[reg_point]
+64,133
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/S - 神秘蒙面人/idle/

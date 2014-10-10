@@ -1,0 +1,1 @@
+{"action_name":"send_mail","module_name":"debug","protocol":[{"name":"mail_id","type":"int32"}]}

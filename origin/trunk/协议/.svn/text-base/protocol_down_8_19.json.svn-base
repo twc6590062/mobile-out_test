@@ -1,0 +1,1 @@
+{"action_name":"send_sword_soul_draw_num_change","module_name":"notify","protocol":[{"name":"num","type":"int16"},{"name":"cd_time","type":"int64"}]}

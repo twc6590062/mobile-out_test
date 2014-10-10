@@ -1,0 +1,1 @@
+{"action_name":"item_recast_state_rebuild","module_name":"notify","protocol":[{"name":"id","type":"int64"},{"name":"selected_attr","type":"enum8"},{"name":"attrs","type":"list8","fields":[{"name":"attr","type":"enum8"},{"name":"value","type":"int32"}]}]}

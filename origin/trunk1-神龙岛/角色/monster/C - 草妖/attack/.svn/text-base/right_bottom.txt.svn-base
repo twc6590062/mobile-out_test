@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/C - 草妖/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+605
+[height]
+107
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+52,-13
+[name_hidden]
+0
+[reg_point]
+56,77
+[face]
+right_bottom
+[actions]
+3,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/C - 草妖/attack/

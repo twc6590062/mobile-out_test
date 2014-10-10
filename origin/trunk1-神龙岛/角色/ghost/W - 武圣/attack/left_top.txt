@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/G - 古代武圣/attack/left_top.png
+[filename]
+left_top.png
+[width]
+1350
+[height]
+176
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+80,-17
+[name_hidden]
+0
+[reg_point]
+79,133
+[face]
+left_top
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/G - 古代武圣/attack/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 燕无名/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1624
+[height]
+199
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+99,8
+[name_hidden]
+0
+[reg_point]
+99,126
+[face]
+right_bottom
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 燕无名/attack/

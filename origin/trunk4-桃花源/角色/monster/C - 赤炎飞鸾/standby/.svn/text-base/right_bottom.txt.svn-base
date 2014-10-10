@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/C - 赤炎飞鸾/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2312
+[height]
+283
+[frames]
+17
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+58,0
+[name_hidden]
+0
+[reg_point]
+66,233
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/C - 赤炎飞鸾/standby/

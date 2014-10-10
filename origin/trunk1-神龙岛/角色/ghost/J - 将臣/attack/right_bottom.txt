@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/K - 骷髅将军/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+6000
+[height]
+331
+[frames]
+15
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+216,50
+[name_hidden]
+0
+[reg_point]
+205,195
+[face]
+right_bottom
+[actions]
+10,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/K - 骷髅将军/attack/

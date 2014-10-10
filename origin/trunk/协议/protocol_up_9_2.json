@@ -1,0 +1,1 @@
+{"action_name":"unequip","module_name":"ghost","protocol":[{"name":"role_id","type":"int8"},{"name":"from_id","type":"int64"},{"name":"to_pos","type":"int16"}]}

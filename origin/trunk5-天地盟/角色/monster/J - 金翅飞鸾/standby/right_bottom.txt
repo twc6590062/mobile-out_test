@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk5-天地盟/角色/monster/J - 金翅飞鸾/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3033
+[height]
+416
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+167,126
+[name_hidden]
+0
+[reg_point]
+168,318
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk5-天地盟/角色/monster/J - 金翅飞鸾/standby/

@@ -1,0 +1,1 @@
+{"action_name":"state_change","module_name":"battle","protocol":[{"name":"player_id","type":"int64"},{"name":"auto","type":"bool"},{"name":"desc","type":"text16"}]}

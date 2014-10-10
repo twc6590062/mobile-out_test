@@ -1,0 +1,1 @@
+{"action_name":"open_small_box","module_name":"mission","protocol":[{"name":"items","type":"list8","fields":[{"name":"box_item_id","type":"int32"}]}]}

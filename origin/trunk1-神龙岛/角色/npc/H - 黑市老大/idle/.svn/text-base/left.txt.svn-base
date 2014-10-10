@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/X - 训练师/idle/left.png
+[filename]
+left.png
+[width]
+798
+[height]
+180
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+200
+[name_point]
+62,-2
+[name_hidden]
+0
+[reg_point]
+60,149
+[face]
+left
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/npc/X - 训练师/idle/

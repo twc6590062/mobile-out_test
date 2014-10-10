@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/H - 混沌/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2760
+[height]
+268
+[frames]
+12
+[frames_repeat]
+
+[frames_copy]
+7
+[interval]
+60
+[name_point]
+90,1
+[name_hidden]
+0
+[reg_point]
+93,187
+[face]
+right_bottom
+[actions]
+7,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/H - 混沌/attack/

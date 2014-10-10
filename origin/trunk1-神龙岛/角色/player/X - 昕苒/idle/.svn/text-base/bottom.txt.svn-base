@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/X - 昕苒/idle/bottom.png
+[filename]
+bottom.png
+[width]
+1040
+[height]
+151
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+54,-8
+[name_hidden]
+0
+[reg_point]
+51,120
+[face]
+bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/X - 昕苒/idle/

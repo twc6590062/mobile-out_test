@@ -1,0 +1,1 @@
+{"action_name":"get_daily_info","module_name":"quest","protocol":[{"name":"quest","type":"list8","fields":[{"name":"id","type":"int16"},{"name":"finish_count","type":"int16"},{"name":"award_state","type":"int8"}]}]}

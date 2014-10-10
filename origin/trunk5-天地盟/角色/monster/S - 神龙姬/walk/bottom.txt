@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 神龙姬/walk/bottom.png
+[filename]
+bottom.png
+[width]
+940
+[height]
+154
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+47,-4
+[name_hidden]
+0
+[reg_point]
+45,126
+[face]
+bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/S - 神龙姬/walk/

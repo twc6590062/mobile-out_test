@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/Y - 荧惑/idle/top.png
+[filename]
+top.png
+[width]
+1512
+[height]
+192
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+100,-3
+[name_hidden]
+0
+[reg_point]
+107,128
+[face]
+top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/Y - 荧惑/idle/

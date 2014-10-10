@@ -1,0 +1,1 @@
+{"action_name":"townLock_change","module_name":"notify","protocol":[{"name":"lock","type":"int32"}]}

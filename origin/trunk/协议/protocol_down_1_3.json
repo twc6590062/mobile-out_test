@@ -1,0 +1,1 @@
+{"action_name":"talked_npc_list","module_name":"town","protocol":[{"name":"npc_list","type":"list8","fields":[{"name":"npc_id","type":"int32"},{"name":"quest_id","type":"int16"}]}]}

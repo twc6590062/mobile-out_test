@@ -1,0 +1,1 @@
+{"action_name":"get_pet_info","module_name":"battle_pet","protocol":[{"name":"pet","type":"list8","fields":[{"name":"pet_id","type":"int16"},{"name":"ball_num","type":"int8"},{"name":"activated","type":"bool"},{"name":"called","type":"bool"}]},{"name":"set","type":"list8","fields":[{"name":"grid_num","type":"int8"},{"name":"pet_id","type":"int16"}]}]}

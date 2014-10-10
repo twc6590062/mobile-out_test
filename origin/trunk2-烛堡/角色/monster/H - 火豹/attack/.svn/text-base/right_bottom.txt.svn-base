@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/H - 火豹/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2592
+[height]
+200
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+100
+[name_point]
+205,80
+[name_hidden]
+0
+[reg_point]
+137,127
+[face]
+right_bottom
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/H - 火豹/attack/

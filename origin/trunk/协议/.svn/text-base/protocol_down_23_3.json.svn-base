@@ -1,0 +1,1 @@
+{"action_name":"award_info","module_name":"rainbow","protocol":[{"name":"award","type":"list8","fields":[{"name":"order","type":"int8"}]}]}

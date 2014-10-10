@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/B - 败亡之剑初级/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+5060
+[height]
+186
+[frames]
+23
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+50
+[name_point]
+90,19
+[name_hidden]
+0
+[reg_point]
+90,132
+[face]
+right_bottom
+[actions]
+8,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/B - 败亡之剑初级/attack/

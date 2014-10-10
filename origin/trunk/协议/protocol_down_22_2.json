@@ -1,0 +1,1 @@
+{"action_name":"sign","module_name":"daily_sign_in","protocol":[{"name":"expired","type":"bool"},{"name":"index","type":"int8"},{"name":"records","type":"list8","fields":[{"name":"award_type","type":"enum8"},{"name":"award_index","type":"int8"},{"name":"signed","type":"bool"}]}]}

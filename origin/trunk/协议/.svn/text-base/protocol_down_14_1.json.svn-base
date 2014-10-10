@@ -1,0 +1,1 @@
+{"action_name":"listen_by_nick","module_name":"friend","protocol":[{"name":"result","type":"enum8"},{"name":"role_id","type":"int8"},{"name":"nickname","type":"text16"},{"name":"level","type":"int16"},{"name":"fight_num","type":"int32"}]}

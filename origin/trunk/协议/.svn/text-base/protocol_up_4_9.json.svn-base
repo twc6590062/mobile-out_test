@@ -1,0 +1,1 @@
+{"action_name":"open_small_box","module_name":"mission","protocol":[{"name":"box_id","type":"int32"}]}
