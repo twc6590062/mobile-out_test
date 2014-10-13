@@ -1,1 +1,0 @@
-{"action_name":"get_info","module_name":"multi_level","protocol":[{"name":"daily_num","type":"int8"},{"name":"lock","type":"int32"}]}

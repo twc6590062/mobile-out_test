@@ -1,1 +1,0 @@
-{"action_name":"get_send_heart_list","module_name":"friend","protocol":[{"name":"friends","type":"list8","fields":[{"name":"pid","type":"int64"},{"name":"send_heart_time","type":"int64"}]}]}

@@ -1,3 +1,0 @@
-#!/bin/bash
-CURRENT_PATH=`dirname "$0"`
-php "${CURRENT_PATH}/map.php"

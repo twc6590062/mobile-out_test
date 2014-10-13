@@ -1,1 +1,0 @@
-{"action_name":"get_hard_level","module_name":"mission","protocol":[{"name":"levels","type":"list8","fields":[{"name":"level_id","type":"int32"},{"name":"score","type":"int32"},{"name":"daily_num","type":"int8"},{"name":"round_num","type":"int32"}]}]}

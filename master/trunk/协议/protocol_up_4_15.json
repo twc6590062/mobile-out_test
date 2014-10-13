@@ -1,1 +1,0 @@
-{"action_name":"auto_fight_level","module_name":"mission","protocol":[{"name":"level_type","type":"int8"},{"name":"level_id","type":"int32"},{"name":"times","type":"int8"}]}

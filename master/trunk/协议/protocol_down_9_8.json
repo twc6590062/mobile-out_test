@@ -1,1 +1,0 @@
-{"action_name":"umbra_info","module_name":"ghost","protocol":[{"name":"umbras","type":"list8","fields":[{"name":"umbra_id","type":"int16"},{"name":"num","type":"int16"},{"name":"refresh_num","type":"int16"}]}]}

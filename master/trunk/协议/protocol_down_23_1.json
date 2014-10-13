@@ -1,1 +1,0 @@
-{"action_name":"info","module_name":"rainbow","protocol":[{"name":"segment_num","type":"int16"},{"name":"level_order","type":"int8"},{"name":"status","type":"int8"},{"name":"reset_num","type":"int8"},{"name":"max_segment_can_jump","type":"int16"},{"name":"max_pass_segment","type":"int16"}]}

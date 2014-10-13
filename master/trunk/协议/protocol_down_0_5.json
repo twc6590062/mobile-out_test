@@ -1,1 +1,0 @@
-{"action_name":"buy_physical","module_name":"player","protocol":[{"name":"physical_buy_count","type":"int16"}]}
