@@ -1,0 +1,1 @@
+{"action_name":"move","module_name":"town","protocol":[{"name":"player_id","type":"int64"},{"name":"to_x","type":"int16"},{"name":"to_y","type":"int16"}]}

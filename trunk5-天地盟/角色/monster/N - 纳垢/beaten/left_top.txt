@@ -1,0 +1,34 @@
+[src]
+file:///E:/美术成品/角色/monster_war/N - 纳垢/beaten/left_top.png
+[filename]
+left_top.png
+[width]
+1122
+[height]
+156
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+46,-9
+[name_hidden]
+0
+[reg_point]
+47,117
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[config_path]
+E:/美术成品/角色/monster_war/N - 纳垢/beaten/

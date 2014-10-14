@@ -1,0 +1,1 @@
+{"action_name":"get_extend_level_info","module_name":"mission","protocol":[{"name":"level_type","type":"enum8"}]}

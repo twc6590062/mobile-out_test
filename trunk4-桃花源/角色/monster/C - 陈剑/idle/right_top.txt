@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/C - 陈默/idle/right_top.png
+[filename]
+right_top.png
+[width]
+896
+[height]
+164
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+200
+[name_point]
+50,-3
+[name_hidden]
+0
+[reg_point]
+48,137
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/monster/C - 陈默/idle/

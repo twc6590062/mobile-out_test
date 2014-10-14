@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 梦妖/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2340
+[height]
+111
+[frames]
+18
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+50
+[name_point]
+55,-9
+[name_hidden]
+0
+[reg_point]
+56,77
+[face]
+right_bottom
+[actions]
+8,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 梦妖/attack/

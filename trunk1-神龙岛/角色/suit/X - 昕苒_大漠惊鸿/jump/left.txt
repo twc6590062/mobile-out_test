@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（女）/jump/left.png
+[filename]
+left.png
+[width]
+2232
+[height]
+200
+[frames]
+18
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+58,47
+[name_hidden]
+0
+[reg_point]
+51,169
+[face]
+left
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（女）/jump/

@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk/角色/monster/J - 剑之守卫/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2403
+[height]
+240
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+137,49
+[name_hidden]
+0
+[reg_point]
+132,181
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk/角色/monster/J - 剑之守卫/attack/

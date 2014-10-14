@@ -1,0 +1,1 @@
+{"action_name":"notify_daily_change","module_name":"quest","protocol":[{"name":"id","type":"int16"},{"name":"finish_count","type":"int16"},{"name":"award_state","type":"int8"}]}

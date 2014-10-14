@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 燕无名/standby2/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+91
+[height]
+149
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+52,1
+[name_hidden]
+0
+[reg_point]
+48,121
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 燕无名/standby2/

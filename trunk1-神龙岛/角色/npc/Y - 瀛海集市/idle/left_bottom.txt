@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/Y - 荧惑/idle/left_bottom.png
+[filename]
+left_bottom.png
+[width]
+1302
+[height]
+186
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+101,7
+[name_hidden]
+0
+[reg_point]
+94,130
+[face]
+left_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/Y - 荧惑/idle/

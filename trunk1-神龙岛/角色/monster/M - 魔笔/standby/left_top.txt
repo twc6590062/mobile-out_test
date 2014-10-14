@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 魔笔/standby/left_top.png
+[filename]
+left_top.png
+[width]
+696
+[height]
+130
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+45,-10
+[name_hidden]
+0
+[reg_point]
+43,104
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 魔笔/standby/

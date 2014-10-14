@@ -1,0 +1,1 @@
+{"action_name":"dress","module_name":"item","protocol":[{"name":"role_id","type":"int8"},{"name":"id","type":"int64"}]}

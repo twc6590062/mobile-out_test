@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/F - 风魔/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3770
+[height]
+301
+[frames]
+13
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+170,16
+[name_hidden]
+0
+[reg_point]
+154,196
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/美术成品/角色/monster_war/F - 风魔/attack/

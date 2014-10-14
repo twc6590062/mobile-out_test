@@ -1,0 +1,1 @@
+{"action_name":"activate_pet","module_name":"battle_pet","protocol":[{"name":"pet_id","type":"int16"}]}

@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/R - 熔岩虫/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1953
+[height]
+145
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+108,-22
+[name_hidden]
+0
+[reg_point]
+110,82
+[face]
+right_bottom
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/R - 熔岩虫/attack/

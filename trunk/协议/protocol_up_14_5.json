@@ -1,0 +1,1 @@
+{"action_name":"get_chat_history","module_name":"friend","protocol":[{"name":"pid","type":"int64"}]}

@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/D - 灯笼怪/attack/left_top.png
+[filename]
+left_top.png
+[width]
+2496
+[height]
+182
+[frames]
+12
+[frames_repeat]
+0
+[frames_copy]
+NaN
+[interval]
+60
+[name_point]
+130,-9
+[name_hidden]
+0
+[reg_point]
+131,152
+[face]
+left_top
+[actions]
+7,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/D - 灯笼怪/attack/

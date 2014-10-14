@@ -1,0 +1,1 @@
+{"action_name":"add_trader_schedule","module_name":"debug","protocol":[{"name":"trader_id","type":"int16"},{"name":"expire","type":"int64"},{"name":"showup","type":"int64"},{"name":"disappear","type":"int64"}]}

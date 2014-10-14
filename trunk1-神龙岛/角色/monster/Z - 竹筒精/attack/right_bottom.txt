@@ -1,0 +1,36 @@
+[src]
+file:///Users/elek/Documents/mobile-out/trunk1-神龙岛/角色/monster/Z - 竹筒精/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1164
+[height]
+125
+[frames]
+12
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+38,25
+[name_hidden]
+0
+[reg_point]
+36,103
+[face]
+right_bottom
+[actions]
+7,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+/Users/elek/Documents/mobile-out/trunk1-神龙岛/角色/monster/Z - 竹筒精/attack/

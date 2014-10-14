@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 神龙姬/attack/left_top.png
+[filename]
+left_top.png
+[width]
+2265
+[height]
+157
+[frames]
+15
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+92,-1
+[name_hidden]
+0
+[reg_point]
+91,128
+[face]
+left_top
+[actions]
+9,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/S - 神龙姬/attack/

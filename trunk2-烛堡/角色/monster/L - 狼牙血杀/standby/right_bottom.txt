@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/L - 狼牙血杀/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+555
+[height]
+147
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+100
+[name_point]
+47,-16
+[name_hidden]
+0
+[reg_point]
+43,110
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/L - 狼牙血杀/standby/

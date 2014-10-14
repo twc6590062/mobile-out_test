@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 马贼老大/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3610
+[height]
+373
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+202,100
+[name_hidden]
+0
+[reg_point]
+203,264
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 马贼老大/attack/

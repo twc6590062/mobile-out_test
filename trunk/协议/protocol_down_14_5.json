@@ -1,0 +1,1 @@
+{"action_name":"get_chat_history","module_name":"friend","protocol":[{"name":"messages","type":"list8","fields":[{"name":"mode","type":"enum8"},{"name":"id","type":"int64"},{"name":"send_time","type":"int64"},{"name":"message","type":"text16"}]}]}

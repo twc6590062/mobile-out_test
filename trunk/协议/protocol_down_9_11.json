@@ -1,0 +1,1 @@
+{"action_name":"compose","module_name":"ghost","protocol":[{"name":"id","type":"int64"},{"name":"ghost_id","type":"int16"},{"name":"pos","type":"int16"}]}

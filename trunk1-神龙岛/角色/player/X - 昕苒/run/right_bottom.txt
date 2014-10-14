@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/X - 昕苒/run/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1080
+[height]
+137
+[frames]
+12
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+56,-2
+[name_hidden]
+0
+[reg_point]
+45,109
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/X - 昕苒/run/

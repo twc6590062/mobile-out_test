@@ -1,0 +1,1 @@
+{"action_name":"get_heart_draw_info","module_name":"draw","protocol":[{"name":"draw_type","type":"int8"},{"name":"award_record","type":"bool"}]}

@@ -1,0 +1,34 @@
+[src]
+file:///E:/美术成品/角色/monster/G - 鬼火/beaten1/left_top.png
+[filename]
+left_top.png
+[width]
+1575
+[height]
+172
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+40
+[name_point]
+113,-9
+[name_hidden]
+0
+[reg_point]
+112,107
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[config_path]
+E:/美术成品/角色/monster/G - 鬼火/beaten1/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/K - 砍头魂/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1872
+[height]
+219
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+129,52
+[name_hidden]
+0
+[reg_point]
+115,156
+[face]
+right_bottom
+[actions]
+5,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/K - 砍头魂/attack/

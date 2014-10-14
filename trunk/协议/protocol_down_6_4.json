@@ -1,0 +1,1 @@
+{"action_name":"fightnum","module_name":"battle","protocol":[{"name":"attacker","type":"int32"},{"name":"defender","type":"int32"}]}

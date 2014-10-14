@@ -1,0 +1,7 @@
+动作编辑器 - ActionEditor.air
+地图编辑器 - MapEditor.air
+剧情编辑器 - (Win)DramaEditor.exe, (Mac)DramaEditor.app
+战场站位演示 - WarStation.swf
+序列帧拆分 - SplitSeqEditor.air
+
+如果不能执行以上程序，请先安装AdobeAIRInstaller.exe —— Windows操作系统安装AdobeAIRInstaller.exe，Mac操作系统安装AdobeAIR.dmg

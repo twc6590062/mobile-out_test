@@ -1,0 +1,1 @@
+{"action_name":"use_buddy_skill","module_name":"battle","protocol":[{"name":"pos","type":"int8"},{"name":"use_skill","type":"int8"}]}

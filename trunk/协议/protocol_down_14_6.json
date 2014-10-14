@@ -1,0 +1,1 @@
+{"action_name":"get_offline_messages","module_name":"friend","protocol":[{"name":"chats","type":"list8","fields":[{"name":"pid","type":"int64"},{"name":"nickname","type":"text16"},{"name":"role_id","type":"int8"},{"name":"level","type":"int16"}]},{"name":"listener","type":"list8","fields":[{"name":"pid","type":"int64"},{"name":"nick","type":"text16"}]}]}

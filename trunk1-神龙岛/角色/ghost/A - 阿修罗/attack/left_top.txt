@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/A - 阿修罗/attack/left_top.png
+[filename]
+left_top.png
+[width]
+8520
+[height]
+481
+[frames]
+24
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+50
+[name_point]
+237,161
+[name_hidden]
+0
+[reg_point]
+233,424
+[face]
+left_top
+[actions]
+16,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/A - 阿修罗/attack/

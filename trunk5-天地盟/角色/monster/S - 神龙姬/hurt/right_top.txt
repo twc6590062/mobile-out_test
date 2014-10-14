@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 神龙姬/hurt/right_top.png
+[filename]
+right_top.png
+[width]
+450
+[height]
+143
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+160
+[name_point]
+73,0
+[name_hidden]
+0
+[reg_point]
+41,118
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/S - 神龙姬/hurt/

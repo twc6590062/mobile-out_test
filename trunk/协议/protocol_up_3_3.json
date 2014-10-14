@@ -1,0 +1,1 @@
+{"action_name":"get_fight_num","module_name":"role","protocol":[{"name":"fight_type","type":"enum8"}]}

@@ -1,0 +1,1 @@
+{"action_name":"info","module_name":"vip","protocol":[{"name":"level","type":"int16"},{"name":"ingot","type":"int64"},{"name":"card_id","type":"text16"}]}

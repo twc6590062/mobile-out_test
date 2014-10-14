@@ -1,0 +1,1 @@
+{"action_name":"store_state","module_name":"trader","protocol":[{"name":"refresh_num","type":"int16"},{"name":"goods","type":"list8","fields":[{"name":"grid_id","type":"int32"},{"name":"cost","type":"int64"},{"name":"goods_type","type":"int8"},{"name":"item_id","type":"int16"},{"name":"num","type":"int16"},{"name":"stock","type":"int8"}]}]}

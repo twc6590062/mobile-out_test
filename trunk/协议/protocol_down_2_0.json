@@ -1,0 +1,1 @@
+{"action_name":"get_formation_info","module_name":"team","protocol":[{"name":"pos0_role","type":"int8"},{"name":"pos1_role","type":"int8"},{"name":"pos2_role","type":"int8"},{"name":"pos3_role","type":"int8"},{"name":"pos4_role","type":"int8"},{"name":"pos5_role","type":"int8"},{"name":"tactical_grid","type":"int8"}]}

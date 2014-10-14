@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/J - 九尾妖狐/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1472
+[height]
+208
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+100
+[name_point]
+93,13
+[name_hidden]
+0
+[reg_point]
+94,164
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/J - 九尾妖狐/attack/

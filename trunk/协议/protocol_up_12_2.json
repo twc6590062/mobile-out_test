@@ -1,0 +1,1 @@
+{"action_name":"take_attachment","module_name":"mail","protocol":[{"name":"attachment_id","type":"int64"}]}

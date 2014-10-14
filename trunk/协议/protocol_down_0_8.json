@@ -1,0 +1,1 @@
+{"action_name":"from_platform_login","module_name":"player","protocol":[{"name":"status","type":"enum8"},{"name":"player_id","type":"int64"},{"name":"ban_time","type":"int64"}]}

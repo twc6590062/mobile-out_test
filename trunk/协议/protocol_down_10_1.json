@@ -1,0 +1,1 @@
+{"action_name":"draw","module_name":"sword_soul","protocol":[{"name":"id","type":"int64"},{"name":"sword_soul_id","type":"int16"},{"name":"coins","type":"int64"},{"name":"box_state","type":"int8"}]}
