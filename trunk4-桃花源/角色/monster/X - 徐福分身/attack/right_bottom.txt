@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/X - 徐福虚影/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2656
+[height]
+222
+[frames]
+16
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+85,25
+[name_hidden]
+0
+[reg_point]
+72,174
+[face]
+right_bottom
+[actions]
+8,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/monster/X - 徐福虚影/attack/

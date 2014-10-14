@@ -1,0 +1,36 @@
+[src]
+file:///D:/work/lms/out/角色/monster_war/C - 铳斗士/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+361
+[height]
+286
+[frames]
+1
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+182,-9
+[name_hidden]
+0
+[reg_point]
+180,180
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+D:/work/lms/out/角色/ghost_shield/C - 铳斗士/

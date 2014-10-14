@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/S - 色孽/standby/left_top.png
+[filename]
+left_top.png
+[width]
+1624
+[height]
+182
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+104,-14
+[name_hidden]
+0
+[reg_point]
+103,123
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/S - 色孽/standby/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 燕无名/idle/left_bottom.png
+[filename]
+left_bottom.png
+[width]
+1050
+[height]
+156
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+56,-5
+[name_hidden]
+0
+[reg_point]
+41,130
+[face]
+left_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 燕无名/idle/

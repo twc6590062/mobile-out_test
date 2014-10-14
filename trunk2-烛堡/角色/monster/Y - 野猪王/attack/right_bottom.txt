@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/Y - 野猪王/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3344
+[height]
+183
+[frames]
+11
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+185,15
+[name_hidden]
+0
+[reg_point]
+129,100
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/Y - 野猪王/attack/

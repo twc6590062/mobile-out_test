@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/D - 地狱鬼役/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+3480
+[height]
+280
+[frames]
+12
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+146,74
+[name_hidden]
+0
+[reg_point]
+133,205
+[face]
+right_bottom
+[actions]
+6,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/D - 地狱鬼役/attack/

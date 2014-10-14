@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Z - 朱媛媛/win/left_top.png
+[filename]
+left_top.png
+[width]
+1316
+[height]
+179
+[frames]
+14
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+52,31
+[name_hidden]
+0
+[reg_point]
+48,153
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Z - 朱媛媛/win/

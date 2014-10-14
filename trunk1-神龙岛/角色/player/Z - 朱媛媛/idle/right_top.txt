@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Z - 朱媛媛/idle/right_top.png
+[filename]
+right_top.png
+[width]
+774
+[height]
+137
+[frames]
+9
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+44,-9
+[name_hidden]
+0
+[reg_point]
+43,112
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Z - 朱媛媛/idle/

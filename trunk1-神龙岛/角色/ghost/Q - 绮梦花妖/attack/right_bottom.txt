@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/Q - 绮梦花妖/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1656
+[height]
+236
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+98,24
+[name_hidden]
+0
+[reg_point]
+104,176
+[face]
+right_bottom
+[actions]
+7,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/Q - 绮梦花妖/attack/

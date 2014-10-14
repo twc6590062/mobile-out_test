@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/B - 冰火岛商人/idle/right_top.png
+[filename]
+right_top.png
+[width]
+660
+[height]
+146
+[frames]
+6
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+160
+[name_point]
+58,-6
+[name_hidden]
+0
+[reg_point]
+63,119
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/npc/B - 冰火岛商人/idle/

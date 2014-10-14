@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/M - 马贼老大/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1984
+[height]
+238
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+149,38
+[name_hidden]
+0
+[reg_point]
+151,199
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/M - 马贼老大/standby/

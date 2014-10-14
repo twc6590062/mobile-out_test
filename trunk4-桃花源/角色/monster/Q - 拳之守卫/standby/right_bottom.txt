@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/Q - 拳之守卫/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+832
+[height]
+124
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+60
+[name_point]
+55,-17
+[name_hidden]
+0
+[reg_point]
+53,97
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/Q - 拳之守卫/standby/

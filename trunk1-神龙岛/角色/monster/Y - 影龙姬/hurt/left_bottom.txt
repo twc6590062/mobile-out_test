@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/Y - 影龙姬/hurt/left_bottom.png
+[filename]
+left_bottom.png
+[width]
+475
+[height]
+128
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+160
+[name_point]
+29,-7
+[name_hidden]
+0
+[reg_point]
+49,99
+[face]
+left_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/monster/Y - 影龙姬/hurt/

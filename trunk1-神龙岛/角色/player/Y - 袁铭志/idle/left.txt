@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/B - 毕林/idle/left.png
+[filename]
+left.png
+[width]
+742
+[height]
+163
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+180
+[name_point]
+51,-8
+[name_hidden]
+0
+[reg_point]
+52,131
+[face]
+left
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/B - 毕林/idle/

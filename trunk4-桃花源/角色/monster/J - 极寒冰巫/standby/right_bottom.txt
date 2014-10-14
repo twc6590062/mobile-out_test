@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/J - 极寒冰巫/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1210
+[height]
+192
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+37,-2
+[name_hidden]
+0
+[reg_point]
+43,141
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/J - 极寒冰巫/standby/

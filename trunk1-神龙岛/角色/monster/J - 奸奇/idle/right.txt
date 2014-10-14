@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/J - 奸奇/idle/right.png
+[filename]
+right.png
+[width]
+770
+[height]
+174
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+180
+[name_point]
+63,-9
+[name_hidden]
+0
+[reg_point]
+55,142
+[face]
+right
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/手机美术成品/角色/npc/J - 奸奇/idle/

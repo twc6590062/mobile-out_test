@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/L - 龙姬/walk/right_top.png
+[filename]
+right_top.png
+[width]
+980
+[height]
+160
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+49,2
+[name_hidden]
+0
+[reg_point]
+47,132
+[face]
+right_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/npc/L - 龙姬/walk/

@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/Y - 义峰/idle/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+609
+[height]
+147
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+210
+[name_point]
+40,-5
+[name_hidden]
+0
+[reg_point]
+43,120
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/Y - 义峰/idle/

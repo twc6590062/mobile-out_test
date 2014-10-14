@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/S - 生/standby/left_top.png
+[filename]
+left_top.png
+[width]
+784
+[height]
+189
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+54,-3
+[name_hidden]
+0
+[reg_point]
+58,159
+[face]
+left_top
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/美术成品/角色/monster_war/S - 生/standby/

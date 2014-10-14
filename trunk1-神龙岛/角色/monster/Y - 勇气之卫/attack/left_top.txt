@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/Y - 勇士之卫/attack/left_top.png
+[filename]
+left_top.png
+[width]
+3523
+[height]
+282
+[frames]
+13
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+132,-8
+[name_hidden]
+0
+[reg_point]
+135,203
+[face]
+left_top
+[actions]
+5,10,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/Y - 勇士之卫/attack/

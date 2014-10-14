@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/walk/left_bottom.png
+[filename]
+left_bottom.png
+[width]
+870
+[height]
+141
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+90
+[name_point]
+46,-1
+[name_hidden]
+0
+[reg_point]
+43,115
+[face]
+left_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/player/D - 大漠惊鸿（男）/walk/

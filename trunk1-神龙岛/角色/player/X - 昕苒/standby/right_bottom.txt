@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/X - 昕苒/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+655
+[height]
+142
+[frames]
+5
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+84,-8
+[name_hidden]
+0
+[reg_point]
+85,114
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/X - 昕苒/standby/

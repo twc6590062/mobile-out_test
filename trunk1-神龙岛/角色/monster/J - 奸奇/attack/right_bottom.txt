@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/J - 奸奇/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1504
+[height]
+217
+[frames]
+8
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+120
+[name_point]
+89,-15
+[name_hidden]
+0
+[reg_point]
+89,156
+[face]
+right_bottom
+[actions]
+4,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/J - 奸奇/attack/

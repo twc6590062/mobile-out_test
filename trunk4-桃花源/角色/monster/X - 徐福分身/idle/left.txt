@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/monster/X - 徐福虚影/idle/left.png
+[filename]
+left.png
+[width]
+763
+[height]
+202
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+240
+[name_point]
+57,11
+[name_hidden]
+0
+[reg_point]
+53,157
+[face]
+left
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):30
+[config_path]
+E:/手机美术成品/角色/monster/X - 徐福虚影/idle/

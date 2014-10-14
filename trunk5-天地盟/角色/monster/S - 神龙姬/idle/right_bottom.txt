@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/S - 神龙姬/idle/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+574
+[height]
+156
+[frames]
+7
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+200
+[name_point]
+39,-1
+[name_hidden]
+0
+[reg_point]
+41,132
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):0
+[config_path]
+E:/手机美术成品/角色/npc/S - 神龙姬/idle/

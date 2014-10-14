@@ -1,0 +1,36 @@
+[src]
+file:///E:/美术成品/角色/monster_war/D - 毒兽/attack/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+2717
+[height]
+145
+[frames]
+13
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+50
+[name_point]
+89,-6
+[name_hidden]
+0
+[reg_point]
+91,89
+[face]
+right_bottom
+[actions]
+7,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+
+[config_path]
+E:/美术成品/角色/monster_war/D - 毒兽/attack/

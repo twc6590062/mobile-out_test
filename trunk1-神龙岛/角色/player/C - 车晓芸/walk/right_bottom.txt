@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/player/C - 车晓芸/walk/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+1350
+[height]
+138
+[frames]
+15
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+70
+[name_point]
+47,-2
+[name_hidden]
+0
+[reg_point]
+44,110
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/player/C - 车晓芸/walk/

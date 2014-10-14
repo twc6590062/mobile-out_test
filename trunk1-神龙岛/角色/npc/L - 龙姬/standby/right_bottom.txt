@@ -1,0 +1,36 @@
+[src]
+file:///E:/手机美术成品/角色/npc/L - 龙姬/standby/right_bottom.png
+[filename]
+right_bottom.png
+[width]
+960
+[height]
+152
+[frames]
+10
+[frames_repeat]
+
+[frames_copy]
+
+[interval]
+80
+[name_point]
+47,-5
+[name_hidden]
+0
+[reg_point]
+52,125
+[face]
+right_bottom
+[actions]
+0,0,0,0,0
+[shadow_src]
+
+[shadow_filename]
+
+[shadow_position]
+0,0
+[effect]
+Brightness(亮度):15
+[config_path]
+E:/手机美术成品/角色/npc/L - 龙姬/standby/
