@@ -1,0 +1,1 @@
+{"action_name":"batch_use_item","module_name":"item","protocol":[{"name":"role_id","type":"int8"},{"name":"id","type":"int64"},{"name":"num","type":"int32"}]}
