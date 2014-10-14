@@ -1,0 +1,1 @@
+{"action_name":"set_buddy_level_team","module_name":"mission","protocol":[{"name":"role_pos","type":"int8"},{"name":"buddy_pos","type":"int8"},{"name":"tactical","type":"int8"}]}

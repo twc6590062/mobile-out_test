@@ -1,0 +1,1 @@
+{"action_name":"get_infos","module_name":"mail","protocol":[{"name":"new_mail_num","type":"int16"},{"name":"unread_num","type":"int16"},{"name":"total","type":"int16"}]}

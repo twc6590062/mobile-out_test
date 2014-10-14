@@ -1,0 +1,1 @@
+{"action_name":"replace_formation","module_name":"team","protocol":[{"name":"role_id","type":"int8"},{"name":"pos","type":"int8"}]}

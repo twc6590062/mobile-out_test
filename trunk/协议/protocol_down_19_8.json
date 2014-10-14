@@ -1,0 +1,1 @@
+{"action_name":"get_top_rank","module_name":"arena","protocol":[{"name":"top3","type":"list8","fields":[{"name":"openid","type":"text16"},{"name":"role_id","type":"int8"}]},{"name":"ranks","type":"list8","fields":[{"name":"pid","type":"int64"},{"name":"rank","type":"int32"},{"name":"nick","type":"text16"},{"name":"level","type":"int16"},{"name":"trend","type":"int8"}]}]}

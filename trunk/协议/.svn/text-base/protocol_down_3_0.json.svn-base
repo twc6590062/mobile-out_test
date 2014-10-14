@@ -1,0 +1,1 @@
+{"action_name":"get_all_roles","module_name":"role","protocol":[{"name":"roles","type":"list8","fields":[{"name":"role_id","type":"int8"},{"name":"level","type":"int16"},{"name":"exp","type":"int64"}]}]}

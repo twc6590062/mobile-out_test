@@ -1,0 +1,1 @@
+{"action_name":"heart_draw","module_name":"draw","protocol":[{"name":"award","type":"struct","fields":[{"name":"award_type","type":"int8"},{"name":"award_num","type":"int16"},{"name":"item_id","type":"int16"},{"name":"draw_time","type":"int64"}]}]}

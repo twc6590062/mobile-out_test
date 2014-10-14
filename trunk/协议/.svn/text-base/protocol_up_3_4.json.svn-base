@@ -1,0 +1,1 @@
+{"action_name":"get_player_info_with_openid","module_name":"role","protocol":[{"name":"openid","type":"text16"},{"name":"game_server_id","type":"int32"}]}

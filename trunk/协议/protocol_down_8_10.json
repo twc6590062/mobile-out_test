@@ -1,0 +1,1 @@
+{"action_name":"quest_change","module_name":"notify","protocol":[{"name":"quest_id","type":"int16"},{"name":"state","type":"int8"}]}

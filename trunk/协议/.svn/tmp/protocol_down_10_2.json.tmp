@@ -1,0 +1,1 @@
+{"action_name":"upgrade","module_name":"sword_soul","protocol":[{"name":"id","type":"int64"},{"name":"sword_soul_id","type":"int16"},{"name":"exp","type":"int32"},{"name":"level","type":"int8"}]}

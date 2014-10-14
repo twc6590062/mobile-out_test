@@ -1,0 +1,1 @@
+{"action_name":"sign_past_day","module_name":"daily_sign_in","protocol":[{"name":"expired","type":"bool"}]}

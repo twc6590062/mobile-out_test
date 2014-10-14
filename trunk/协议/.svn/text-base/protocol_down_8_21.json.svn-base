@@ -1,0 +1,1 @@
+{"action_name":"send_have_new_ghost","module_name":"notify","protocol":[{"name":"player_ghost_id","type":"int64"}]}

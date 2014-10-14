@@ -1,0 +1,1 @@
+{"action_name":"swap_formation","module_name":"team","protocol":[{"name":"pos_from","type":"int8"},{"name":"pos_to","type":"int8"}]}

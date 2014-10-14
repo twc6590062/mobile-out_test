@@ -1,0 +1,1 @@
+{"action_name":"enter_rainbow_level","module_name":"mission","protocol":[{"name":"used_ghost","type":"list8","fields":[{"name":"ghost_id","type":"int16"}]},{"name":"called_pet","type":"list8","fields":[{"name":"pet_id","type":"int16"}]}]}

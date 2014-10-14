@@ -1,0 +1,1 @@
+{"action_name":"enter_extend_level","module_name":"mission","protocol":[{"name":"level_type","type":"enum8"},{"name":"level_id","type":"int32"}]}

@@ -1,0 +1,1 @@
+{"action_name":"get_form_info","module_name":"multi_level","protocol":[{"name":"tactical","type":"int8"},{"name":"buddy_role_id","type":"int8"},{"name":"buddy_role_row","type":"int8"}]}

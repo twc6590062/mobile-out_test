@@ -1,0 +1,1 @@
+{"action_name":"refuse_room_invite","module_name":"multi_level","protocol":[{"name":"room_id","type":"int64"},{"name":"inviter_id","type":"int64"}]}

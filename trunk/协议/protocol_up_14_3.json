@@ -1,0 +1,1 @@
+{"action_name":"send_heart","module_name":"friend","protocol":[{"name":"nickname","type":"text16"},{"name":"friend_type","type":"enum8"},{"name":"pid","type":"int64"}]}

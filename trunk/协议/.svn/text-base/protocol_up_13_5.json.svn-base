@@ -1,0 +1,1 @@
+{"action_name":"guide","module_name":"quest","protocol":[{"name":"guide_type","type":"enum8"},{"name":"action","type":"enum8"}]}

@@ -1,0 +1,1 @@
+{"action_name":"chat","module_name":"notify","protocol":[{"name":"pid","type":"int64"},{"name":"role_id","type":"int8"},{"name":"nickname","type":"text16"},{"name":"level","type":"int16"},{"name":"fight_num","type":"int32"},{"name":"message","type":"text16"}]}

@@ -1,0 +1,1 @@
+{"action_name":"send_announcement","module_name":"notify","protocol":[{"name":"tpl_id","type":"int32"},{"name":"expire_time","type":"int64"},{"name":"parameters","type":"text16"},{"name":"content","type":"text16"}]}

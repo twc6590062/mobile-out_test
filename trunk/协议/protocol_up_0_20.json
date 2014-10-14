@@ -1,0 +1,1 @@
+{"action_name":"cross_login_game_server","module_name":"player","protocol":[{"name":"pid","type":"int64"},{"name":"openid","type":"text16"},{"name":"nick","type":"text16"},{"name":"role_id","type":"int8"},{"name":"role_level","type":"int16"},{"name":"time","type":"int64"},{"name":"hash","type":"text16"}]}

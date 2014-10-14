@@ -1,0 +1,1 @@
+{"action_name":"get_all_skills_info","module_name":"skill","protocol":[{"name":"roles","type":"list8","fields":[{"name":"role_id","type":"int8"},{"name":"skill_id1","type":"int16"},{"name":"skill_id2","type":"int16"},{"name":"skill_id3","type":"int16"}]},{"name":"skills","type":"list8","fields":[{"name":"role_id","type":"int8"},{"name":"skill_id","type":"int16"}]}]}

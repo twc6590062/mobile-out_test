@@ -1,0 +1,1 @@
+{"action_name":"money_change","module_name":"notify","protocol":[{"name":"moneytype","type":"int8"},{"name":"value","type":"int64"},{"name":"timestamp","type":"int64"}]}

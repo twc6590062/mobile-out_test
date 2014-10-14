@@ -1,0 +1,1 @@
+{"action_name":"bag_pos_change","module_name":"ghost","protocol":[{"name":"from_id","type":"int64"},{"name":"to_pos","type":"int16"}]}

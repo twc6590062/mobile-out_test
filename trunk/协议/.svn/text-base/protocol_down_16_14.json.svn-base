@@ -1,0 +1,1 @@
+{"action_name":"notify_room_invite","module_name":"multi_level","protocol":[{"name":"room_id","type":"int64"},{"name":"level_id","type":"int32"},{"name":"nickname","type":"text16"},{"name":"inviter_id","type":"int64"},{"name":"daily_num","type":"int8"},{"name":"game_server_id","type":"int64"}]}

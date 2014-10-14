@@ -1,0 +1,1 @@
+{"action_name":"set_resource_level_open_day","module_name":"debug","protocol":[{"name":"level_type","type":"int8"},{"name":"open_day","type":"int8"}]}

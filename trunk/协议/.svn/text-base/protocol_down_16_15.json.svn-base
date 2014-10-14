@@ -1,0 +1,1 @@
+{"action_name":"notify_players_info","module_name":"multi_level","protocol":[{"name":"players","type":"list8","fields":[{"name":"player_id","type":"int64"},{"name":"nickname","type":"text16"}]}]}

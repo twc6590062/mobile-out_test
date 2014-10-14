@@ -1,0 +1,1 @@
+{"action_name":"get_recast_info","module_name":"item","protocol":[{"name":"id","type":"int64"},{"name":"attr","type":"enum8"}]}

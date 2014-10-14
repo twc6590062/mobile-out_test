@@ -1,0 +1,1 @@
+{"action_name":"get_mission_level","module_name":"mission","protocol":[{"name":"mission_id","type":"int16"}]}
