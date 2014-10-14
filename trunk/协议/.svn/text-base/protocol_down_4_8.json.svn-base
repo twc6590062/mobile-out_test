@@ -1,1 +1,0 @@
-{"action_name":"get_extend_level_info","module_name":"mission","protocol":[{"name":"info","type":"list8","fields":[{"name":"level_type","type":"enum8"},{"name":"level_sub_type","type":"enum8"},{"name":"pass_time","type":"int64"},{"name":"daily_num","type":"int8"}]}]}

@@ -1,1 +1,0 @@
-{"action_name":"get_list","module_name":"announcement","protocol":[{"name":"announcements","type":"list8","fields":[{"name":"tpl_id","type":"int32"},{"name":"expire_time","type":"int64"},{"name":"parameters","type":"text16"},{"name":"content","type":"text16"}]}]}
